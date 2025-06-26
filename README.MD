@@ -1,4 +1,5 @@
 
+
 # 🎿 Skimoji
 
 If you've owned a Windows 3.0 desktop computer before, chances are you've tried Microsoft SkiFree! Skimoji is a less than faithful recreation of SkiFree, using emojis! **[Play Skimoji here](https://skimoji.charlesteh.io/)**
@@ -30,6 +31,13 @@ Of course, that's why it's called Skimoji, not a Skifree clone. However, I do ha
 Some Skimoji features are also not in the original SkiFree, and that's intentional. If you have a problem with it, feel free to your own clone with Claude or ChatGPT. I made this because I want to play it on a phone.
 
 BTW, there's already an ongoing recreation of SkiFree called [SkiFree JS](https://github.com/basicallydan/skifree.js/), you can try it there.
+
+## This game is too hard, I can't play this
+Let me say it again: **Skimoji is a less than faithful recreation of SkiFree**. In case you're unsure, SkiFree is a rage game. There are ways to win, but I'm not gona tell you that. Figure it out yourself. You need a tip? Learn more about SkiFree.
+
+## This game is too easy, the AI is a turd
+Congrats, you've figured out the trick! Please don't share it to others. You can let me know what I can do better in [Issues](https://github.com/charlesteh/skimoji-issues/issues). I'm still trying to replicate SkiFree's mechanics as close as I can.
+
 
 ## Found a bug?
 
