@@ -33,7 +33,7 @@ BTW, there's already an ongoing recreation of SkiFree called [SkiFree JS](https:
 
 ## Found a bug?
 
-Check if someone already reported it in [Issues](https://github.com/charlesteh/skimoji-issues/issues), and if not, make a new one. Include what device/browser you're using and what went wrong. This is a solo project, so be patient!
+Check if someone already reported it in [Issues](https://github.com/charlesteh/skimoji-issues/issues), and if not, make a new one. Read the [Contributing Guidelines](CONTRIBUTING.MD) first. This is a solo project, so be patient!
 
 ## Want a new feature?
 
